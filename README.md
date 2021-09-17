@@ -1,14 +1,4 @@
-# Hands-on EKS-ALB : AWS LoadBalancer Controller (ALB) and Ingress with EKS
-
-Purpose of the this hands-on training is to give students the knowledge of AWS LoadBalancer Controller and Ingress with EKS.
-
-## Learning Outcomes
-
-At the end of the this hands-on training, students will be able to;
-
-- Learn to Create and Manage EKS Cluster with eksctl.
-
-- Understand the Ingress and AWS LoadBalancer Controller (ALB) Usage.
+# AWS LoadBalancer Controller (ALB) and Ingress with EKS
 
 ## Outline
 
